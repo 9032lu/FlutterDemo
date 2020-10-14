@@ -14,7 +14,7 @@ class _CategoryPageState extends State<CategoryPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('分类'),
-        backgroundColor: Colors.cyan,
+        backgroundColor: Color.fromRGBO(12, 140, 19, 1),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
